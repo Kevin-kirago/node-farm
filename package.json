@@ -1,0 +1,22 @@
+{
+	"name": "farm",
+	"version": "1.0.0",
+	"description": "Learning node js",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Kevin-kirago/node-farm.git"
+	},
+	"author": "Kevin kiragu",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Kevin-kirago/node-farm/issues"
+	},
+	"homepage": "https://github.com/Kevin-kirago/node-farm#readme",
+	"dependencies": {
+		"slugify": "^1.4.7"
+	}
+}
